@@ -7,7 +7,7 @@ Frontend Developer
 I am an Aries ♈ / 22 I love coding and building frontend applications. I enjoy learning cloud ☁ and its tools.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [AudaciousBeing](http://audaciousbeing.netlify.app/)
+* 🖥️  See my portfolio at [AudaciousBeing](https://portfolio-sanity-three.vercel.app/)
 * ✉️  You can contact me at [cchandra554@gmail.com](mailto:cchandra554@gmail.com)
 * 🧠  I'm learning Express(Backend Framework)
 * ⚡  Psst!👂 I also want to be a game developer because i love playing pc games
